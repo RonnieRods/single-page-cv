@@ -11,3 +11,5 @@ Full details of the project is linked here: [Single-Page HTML CV Project](https:
 
 # Screenshot of completed project
 ![Screenshot of Single-Page HTML CV Project](/images/Project_Screenshot.png)
+
+Live demo is here if interested! ![Project Demo](https://ronnierods.github.io/single-page-cv/)
