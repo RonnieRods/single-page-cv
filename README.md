@@ -6,3 +6,5 @@ Structured, single-page CV using only HTML. Focuses on laying out education, ski
 - **SEO Meta Tags**: Including essential meta tags for SEO.
 - **Open Graph (OG) Tags**: Adding OG tags for better social media sharing.
 - **Favicon**: Adding a favicon to the CV page.
+
+Full details of the project is linked here: [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
