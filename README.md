@@ -8,3 +8,5 @@ Structured, single-page CV using only HTML. Focuses on laying out education, ski
 - **Favicon**: Adding a favicon to the CV page.
 
 Full details of the project is linked here: [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
+
+# Screencap of completed project
