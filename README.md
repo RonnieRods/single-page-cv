@@ -9,4 +9,5 @@ Structured, single-page CV using only HTML. Focuses on laying out education, ski
 
 Full details of the project is linked here: [Single-Page HTML CV Project](https://roadmap.sh/projects/single-page-cv)
 
-# Screencap of completed project
+# Screenshot of completed project
+![Screenshot of Single-Page HTML CV Project](/images/Project_Screenshot.png)
